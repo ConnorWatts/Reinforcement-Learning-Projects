@@ -16,4 +16,4 @@ This repository contains an PyTorch implementation of a Deep Reinforcement Learn
 
 [**PPO Experiments**](https://github.com/ConnorWatts/PPO)
 
-This repository contains an PyTorch implementation of the deep reinforcement learning algorithm Proximal Policy Optimization(PPO). In this we additinally investigate the use of different statistical divergences as well as other regularization techniques such as Spectral normalization
+This repository contains an PyTorch implementation of the deep reinforcement learning algorithm Proximal Policy Optimization(PPO). In this we additinally investigate the use of different statistical divergences as well as other regularization techniques such as Spectral normalization (In Progress)
