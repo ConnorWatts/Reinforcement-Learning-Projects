@@ -7,3 +7,5 @@ This repo contains notebooks for a selection of Reinforcement Learning projects.
 [**Transformer based RL Portfolio Manager**](https://github.com/ConnorWatts/TRL-Portfolio-Management)
 
 [**Rubiks Cube RL**](https://github.com/ConnorWatts/Rubiks-RL)
+
+[**PPO Experiments**](https://github.com/ConnorWatts/PPO)
