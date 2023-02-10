@@ -14,6 +14,3 @@ This repository contains an PyTorch implementation of a Deep Reinforcement Learn
 
 This repository contains an PyTorch implementation of a Deep Reinforcement Learning approach to solving a Rubik's Cube. In this work we implement a Deep Q Network algorithm to determine what moves to make in order the solve the cube. Additionally we investigate the feasibility of the solution with the dimension of the cube is increased.
 
-[**PPO Experiments**](https://github.com/ConnorWatts/PPO)
-
-This repository contains an PyTorch implementation of the deep reinforcement learning algorithm Proximal Policy Optimization(PPO). In this we additinally investigate the use of different statistical divergences as well as other regularization techniques such as Spectral normalization (In Progress)
